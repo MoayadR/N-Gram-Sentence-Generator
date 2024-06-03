@@ -1,10 +1,6 @@
 # N-Gram-Sentence-Generator
  This code is designed to generate sentences using n-gram models (bigrams or trigrams) from the Brown Corpus provided by the NLTK library.
 
-
-# Importing Necessary Libraries: The code imports necessary libraries including NLTK, regex, and random.
-## Downloading the Brown Corpus: It downloads the Brown Corpus from NLTK if not already available.
-
 ## Text Preprocessing Functions:
 * remove_special_chars(): Removes special characters from a string.
 * limit_spaces(): Reduces multiple spaces to a single space.
